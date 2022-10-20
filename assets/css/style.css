@@ -52,9 +52,8 @@ p {
   font-size: 16px;
 }
 
-/* Added .hero img to locate style of image under the figure element.
-   Moved location of file to .html to add alt text */
-.hero img {
+/* Moved location of file to .html to add alt text */
+.hero {
   height: 800px;
   width: 100%;
   margin-bottom: 25px;
