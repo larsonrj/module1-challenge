@@ -1,3 +1,5 @@
+<base target="_blank">
+
 # Challenge: Module 1
 
 ## Description
