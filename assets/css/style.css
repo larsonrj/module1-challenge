@@ -76,7 +76,7 @@ main {
   display: inline-block;
   margin-left: 20px;
 }
-/* replace section, image and h2 classes with single style for each */
+/* replace section, image and h2 classes with single style for each. Moved to be below the main style text. */
 main section {
   margin-bottom: 20px;
   padding: 50px;
