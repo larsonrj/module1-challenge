@@ -76,7 +76,24 @@ main {
   display: inline-block;
   margin-left: 20px;
 }
+/* replace section, image and h2 classes with single style for each */
+main section {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #0072bb;
+  color: #ffffff;
+}
 
+main section img {
+  max-height: 200px;
+}
+
+main section h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
 /* Changed to aside. Updated height to match height of main section */
 aside {
   margin-right: 20px;
@@ -88,71 +105,21 @@ aside {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
 }
-
-.benefit-lead {
+/* Consolidated aside section to one style */
+aside section {
   margin-bottom: 32px;
   color: #ffffff;
 }
-
-.benefit-brand {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
-
-.benefit-cost {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
-
-.benefit-lead h3 {
+/* Consolidated aside section h3 to one style */
+aside section h3 {
   margin-bottom: 10px;
   text-align: center;
 }
-
-.benefit-brand h3 {
-  margin-bottom: 10px;
-  text-align: center;
-}
-
-.benefit-cost h3 {
-  margin-bottom: 10px;
-  text-align: center;
-}
-
-.benefit-lead img {
+/* Consolidated aside section img to one style */
+aside section img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
-}
-
-.benefit-brand img {
-  display: block;
-  margin: 10px auto;
-  max-width: 150px;
-}
-
-.benefit-cost img {
-  display: block;
-  margin: 10px auto;
-  max-width: 150px;
-}
-/* replace section, image and h2 classes with single style for each */
-section {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-section img {
-  max-height: 200px;
-}
-
-section h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
 }
 /* Removed class distinction from footer */
 footer {
