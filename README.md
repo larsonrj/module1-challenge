@@ -17,9 +17,10 @@ Given code for a search engine optimization company, Horiseon, update their webs
 
 ## Website Link
 
-Link to deployed website is <a href="https://larsonrj.github.io/module1-challenge/" target="_blank">Horiseon: Search Engine Optimization</a>
+<!-- _blank does not work in the github markdown file for the readme file. -->
+<!-- Link to deployed website is <a href="https://larsonrj.github.io/module1-challenge/" target="_blank">Horiseon: Search Engine Optimization</a> -->
 
-<!-- [Horiseon: Search Engine Optimization](https://larsonrj.github.io/module1-challenge/) -->
+Link to deployed website is [Horiseon: Search Engine Optimization](https://larsonrj.github.io/module1-challenge/)
 
 ## Website Preview
 
