@@ -20,3 +20,11 @@ Given code for a search engine optimization company, Horiseon, update their webs
 ![Screenshot of Horiseon website](./assets/images/horiseonScreenshot.PNG)
 
 ## Website Link
+
+Link to deployed website is (https://larsonrj.github.io/module1-challenge/)
+
+## Future Improvements
+
+<ul>
+    <li>Update sizing of main section and aside to be formatted on smaller screen types</li>
+    <li> Use flexbox to evenly distribute items for example the items in the aside section overflow the height on a narrower screen.
