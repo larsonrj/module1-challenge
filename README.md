@@ -15,13 +15,13 @@ Given code for a search engine optimization company, Horiseon, update their webs
     <li>Consolidated similar CSS styles to one style where applicable and reordered CSS styles to match order in the .html file.</li>
 </ul>
 
-## Website Screenshot
-
-![Screenshot of Horiseon website](./assets/images/horiseonScreenshot.PNG)
-
 ## Website Link
 
-Link to deployed website is (https://larsonrj.github.io/module1-challenge/)
+Link to deployed website is [Horiseon: Search Engine Optimization](https://larsonrj.github.io/module1-challenge/)
+
+## Website Preview
+
+![Screenshot of Horiseon website](./assets/images/horiseonScreenshot.PNG)
 
 ## Future Improvements
 
